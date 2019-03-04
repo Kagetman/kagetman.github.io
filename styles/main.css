@@ -437,7 +437,8 @@ body {
     align-items: center;
     justify-content: center;
     font-weight: 300;
-    font-size: 65px;
+    font-size: 60px;
+    color: #424242;
     cursor: pointer; }
 
 .asset__action-send:before {
@@ -662,7 +663,8 @@ body {
   cursor: pointer;
   align-items: center;
   display: inline-flex;
-  margin: 0 42px 0 0; }
+  margin: 0 42px 0 0;
+  color: #d3d3d3; }
   .nav__item-active {
     color: #5a81ea; }
     .nav__item-active:before {
@@ -724,7 +726,8 @@ body {
     cursor: pointer;
     align-items: center;
     display: inline-flex;
-    margin: 0 30px 0 0; }
+    margin: 0 30px 0 0;
+    color: #d3d3d3; }
     .period__item-active {
       color: #5a81ea; }
       .period__item-active:before {
@@ -743,7 +746,8 @@ body {
   cursor: pointer;
   align-items: center;
   display: inline-flex;
-  margin: 0 30px 0 0; }
+  margin: 0 30px 0 0;
+  color: #d3d3d3; }
   .tab__item-active {
     color: #5a81ea; }
     .tab__item-active:before {
